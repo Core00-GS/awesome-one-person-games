@@ -119,6 +119,7 @@
 
 * [**Lieve Oma**](https://vltmn.itch.io/lieve-oma), by Florian Veltman.
 * [**Lone Survivor**](http://www.lonesurvivor.co.uk/), by Jasper Byrne.
+* [**Legends of Future Past**](https://github.com/jonradoff/lofp), by Jon Radoff. A 1992 commercial MUD resurrected from original script files using AI. [Play free](https://lofp.metavert.io).
 * [**Lost Soul Aside**](https://www.facebook.com/lostsoulaside/), by Bing Yang.
 * [**Love**](http://www.quelsolaar.com/love/), by Eskil Steenberg.
 * [**Ludus Silva**](http://ludussilva.com/), by Jayelinda Suridge.
